@@ -1,4 +1,4 @@
-# 🚦 Road Traffic Accident Analysis Dashboard
+# Road Traffic Accident Analysis Dashboard
 
 This project presents an interactive *Power BI dashboard* that analyzes road traffic accident data with a focus on driver demographics and accident conditions.
 
@@ -24,11 +24,6 @@ The report includes interactive *slicers, **bar charts, **pie charts, and **summ
 - *Cars and motorbikes* are the most common vehicles in accidents.
 - *Most accidents happen during peak hours*.
 
-## 📷 Dashboard Screenshot
-
-("C:\Users\roush\Downloads\WhatsApp Image 2025-07-08 at 15.34.09_589e5a18.jpg")
-
-
 ## 📌 Tools & Technologies Used
 
 - *Power BI Desktop*
@@ -38,7 +33,7 @@ The report includes interactive *slicers, **bar charts, **pie charts, and **summ
 
 ---
 
-## 👩‍💻 Created By
+##  Created By
 
 Roushani Kumari 
 
